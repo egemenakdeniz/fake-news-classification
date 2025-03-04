@@ -6,7 +6,7 @@ This project focuses on classifying fake and real news using the **FakeNewsNet**
 
 The dataset used in this project is **FakeNewsNet**, which consists of labeled fake and real news articles. You can download it from Kaggle:
 
-[FakeNewsNet Dataset]([www.kaggle.com/datasets/mdepak/fakenewsnet](https://www.kaggle.com/datasets/mdepak/fakenewsnet))
+[FakeNewsNet Dataset](https://www.kaggle.com/datasets/mdepak/fakenewsnet)
 
 ### Data Structure
 The dataset contains two sources:
